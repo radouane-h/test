@@ -3,3 +3,7 @@ hello this is redone from github
 int a = 1
 int b = 2
 sum = a + b
+
+int a = 1
+int b = 2
+mult = a * b
